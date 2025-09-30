@@ -11,3 +11,12 @@ nav {
     border-radius: 8px;
     padding: 10px;
 }
+
+dl {
+    list-style-image: url('chef_;ogo.jpeg');
+    list-style-type: square;
+}
+
+h1, h2 {
+    text-align: center;
+}
